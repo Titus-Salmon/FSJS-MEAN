@@ -1,0 +1,25 @@
+{
+  "name": "fsjs-project",
+  "version": "1.0.0",
+  "description": "Code Louisville FullStackJavaScript MEAN project",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Titus-Salmon/FSJS-MEAN.git"
+  },
+  "author": "Titus Salmon",
+  "license": "UNLICENSED",
+  
+  "dependencies": {
+    "angular": "^1.4.8",
+    "body-parser": "1.14.2",
+    "express": "4.13.4",
+    "mongoose": "4.4.5"
+  },
+  "devDependencies": {
+    "webpack": "1.12.14"
+  }
+}
